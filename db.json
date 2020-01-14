@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Wolf, common","category":"Goldenrod"},
+{"id":2,"name":"Roller, lilac-breasted","category":"Yellow"},
+{"id":3,"name":"Jackrabbit, white-tailed","category":"Red"},
+{"id":4,"name":"European shelduck","category":"Turquoise"},
+{"id":5,"name":"Dunnart, fat-tailed","category":"Blue"},
+{"id":6,"name":"Eurasian red squirrel","category":"Red"},
+{"id":7,"name":"Bald eagle","category":"Goldenrod"},
+{"id":8,"name":"Great cormorant","category":"Puce"},
+{"id":9,"name":"Bandicoot, long-nosed","category":"Blue"},
+{"id":10,"name":"Tarantula, salmon pink bird eater","category":"Puce"},
+{"id":11,"name":"Honey badger","category":"Fuscia"},
+{"id":12,"name":"Sarus crane","category":"Purple"},
+{"id":13,"name":"Albatross, waved","category":"Blue"},
+{"id":14,"name":"Brush-tailed phascogale","category":"Purple"},
+{"id":15,"name":"Mockingbird, galapagos","category":"Violet"},
+{"id":16,"name":"Thomson's gazelle","category":"Blue"},
+{"id":17,"name":"Heron, grey","category":"Red"},
+{"id":18,"name":"White-fronted bee-eater","category":"Pink"},
+{"id":19,"name":"Red-billed buffalo weaver","category":"Aquamarine"},
+{"id":20,"name":"Phascogale, brush-tailed","category":"Green"}
+]
+}
